@@ -1,0 +1,25 @@
+.box-radio {
+    background-color: #6c757d;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+    border: top 10%;
+}
+
+.box-radio input {
+    margin-right: 10px;
+}
+
+.card {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+
